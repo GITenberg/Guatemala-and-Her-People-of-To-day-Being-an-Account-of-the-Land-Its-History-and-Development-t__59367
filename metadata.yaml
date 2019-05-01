@@ -1,11 +1,16 @@
 _repo: Guatemala-and-Her-People-of-To-day-Being-an-Account-of-the-Land-Its-History-and-Development-t__59367
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59367-h/images/cover.jpg
 creator:
   author:
     agent_name: Winter, Nevin O. (Nevin Otto)
     gutenberg_agent_id: '50421'
     url: http://www.gutenberg.org/2009/agents/50421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59367#Guatemala-and-Her-People-of-To-day-Being-an-Account-of-the-Land-Its-History-and-Development-t_
 gutenberg_issued: '2019-04-26'
 gutenberg_type: Text
 identifiers:
